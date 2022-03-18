@@ -11,8 +11,8 @@
     "lint:css": "stylelint public/css"
   },
   "dependencies": {
-    "autoprefixer": "^9.5.1",
-    "postcss": "^8.3.5",
+    "autoprefixer": "9.8.6",
+    "postcss": "8.3.5",
     "tailwindcss": "^2.2.4"
   },
   "devDependencies": {
